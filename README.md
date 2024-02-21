@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthest
 - 👀 I’m interested in js
-- 🌱 I’m currently learning node|、 React
+- 🌱 I’m currently learning nodejs、 React
 
 <!---
 karthest/karthest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
